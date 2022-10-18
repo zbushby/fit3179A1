@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 400,
+  "height": 300,
+  "data": {
+    "url":"js/Radial_plot.csv"
+  },
+  "layer": [{
+    "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
+  },
+  {
+    "mark": {"type": "text", "radiusOffset": 40},
+    "encoding": {
+      "text": {"field": "policy", "type": "nominal"},
+      "tooltip": [
+        {"field": "policy", "type": "nominal"}
+      ]
+    }
+}],
+  "encoding": {
+    "theta": {"field": "perc", "type": "quantitative", "stack": true},
+    "radius": {"field": "perc", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
+    "color": {"field": "perc", "type": "nominal", "legend": null},
+    "tooltip": [
+      {"field": "perc", "type": "nominal", "title":"Percentage"},
+      {"field": "policy", "type": "nominal"}
+    ]
+  }
+
+}

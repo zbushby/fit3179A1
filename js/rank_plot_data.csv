@@ -1,0 +1,169 @@
+"Year","Month","Policy","Deaths","...5"
+2020,"Jan","Lockdown",1,NA
+2020,"Jan","No Policy",7,NA
+2020,"Jan","No Tourism",3,NA
+2020,"Jan","Qurantine",4,NA
+2020,"Jan","Heavy Survillance",5,NA
+2020,"Jan","Travel Ban",6,NA
+2020,"Jan","Heavy use of Masks/PPE",2,NA
+2020,"Feb","Lockdown",1,NA
+2020,"Feb","No Policy",6,NA
+2020,"Feb","No Tourism",4,NA
+2020,"Feb","Qurantine",3,NA
+2020,"Feb","Heavy Survillance",5,NA
+2020,"Feb","Travel Ban",2,NA
+2020,"Feb","Heavy use of Masks/PPE",7,NA
+2020,"Mar","Lockdown",3,NA
+2020,"Mar","No Policy",6,NA
+2020,"Mar","No Tourism",5,NA
+2020,"Mar","Qurantine",2,NA
+2020,"Mar","Heavy Survillance",4,NA
+2020,"Mar","Travel Ban",1,NA
+2020,"Mar","Heavy use of Masks/PPE",7,NA
+2020,"Apr","Lockdown",3,NA
+2020,"Apr","No Policy",7,NA
+2020,"Apr","No Tourism",4,NA
+2020,"Apr","Qurantine",5,NA
+2020,"Apr","Heavy Survillance",1,NA
+2020,"Apr","Travel Ban",6,NA
+2020,"Apr","Heavy use of Masks/PPE",2,NA
+2020,"May","Lockdown",7,NA
+2020,"May","No Policy",4,NA
+2020,"May","No Tourism",5,NA
+2020,"May","Qurantine",1,NA
+2020,"May","Heavy Survillance",6,NA
+2020,"May","Travel Ban",2,NA
+2020,"May","Heavy use of Masks/PPE",3,NA
+2020,"Jun","Lockdown",2,NA
+2020,"Jun","No Policy",7,NA
+2020,"Jun","No Tourism",1,NA
+2020,"Jun","Qurantine",3,NA
+2020,"Jun","Heavy Survillance",4,NA
+2020,"Jun","Travel Ban",5,NA
+2020,"Jun","Heavy use of Masks/PPE",6,NA
+2020,"Jul","Lockdown",3,NA
+2020,"Jul","No Policy",6,NA
+2020,"Jul","No Tourism",1,NA
+2020,"Jul","Qurantine",7,NA
+2020,"Jul","Heavy Survillance",5,NA
+2020,"Jul","Travel Ban",2,NA
+2020,"Jul","Heavy use of Masks/PPE",4,NA
+2020,"Aug","Lockdown",3,NA
+2020,"Aug","No Policy",7,NA
+2020,"Aug","No Tourism",2,NA
+2020,"Aug","Qurantine",5,NA
+2020,"Aug","Heavy Survillance",4,NA
+2020,"Aug","Travel Ban",1,NA
+2020,"Aug","Heavy use of Masks/PPE",6,NA
+2020,"Sep","Lockdown",3,NA
+2020,"Sep","No Policy",6,NA
+2020,"Sep","No Tourism",4,NA
+2020,"Sep","Qurantine",5,NA
+2020,"Sep","Heavy Survillance",2,NA
+2020,"Sep","Travel Ban",1,NA
+2020,"Sep","Heavy use of Masks/PPE",7,NA
+2020,"Oct","Lockdown",5,NA
+2020,"Oct","No Policy",7,NA
+2020,"Oct","No Tourism",2,NA
+2020,"Oct","Qurantine",6,NA
+2020,"Oct","Heavy Survillance",1,NA
+2020,"Oct","Travel Ban",4,NA
+2020,"Oct","Heavy use of Masks/PPE",3,NA
+2020,"Nov","Lockdown",5,NA
+2020,"Nov","No Policy",6,NA
+2020,"Nov","No Tourism",1,NA
+2020,"Nov","Qurantine",7,NA
+2020,"Nov","Heavy Survillance",4,NA
+2020,"Nov","Travel Ban",2,NA
+2020,"Nov","Heavy use of Masks/PPE",3,NA
+2020,"Dec","Lockdown",4,NA
+2020,"Dec","No Policy",6,NA
+2020,"Dec","No Tourism",7,NA
+2020,"Dec","Qurantine",5,NA
+2020,"Dec","Heavy Survillance",1,NA
+2020,"Dec","Travel Ban",2,NA
+2020,"Dec","Heavy use of Masks/PPE",3,NA
+2021,"Jan","Lockdown",4,NA
+2021,"Jan","No Policy",7,NA
+2021,"Jan","No Tourism",6,NA
+2021,"Jan","Qurantine",2,NA
+2021,"Jan","Heavy Survillance",5,NA
+2021,"Jan","Travel Ban",3,NA
+2021,"Jan","Heavy use of Masks/PPE",1,NA
+2021,"Feb","Lockdown",4,NA
+2021,"Feb","No Policy",6,NA
+2021,"Feb","No Tourism",5,NA
+2021,"Feb","Qurantine",7,NA
+2021,"Feb","Heavy Survillance",3,NA
+2021,"Feb","Travel Ban",2,NA
+2021,"Feb","Heavy use of Masks/PPE",1,NA
+2021,"Mar","Lockdown",5,NA
+2021,"Mar","No Policy",7,NA
+2021,"Mar","No Tourism",1,NA
+2021,"Mar","Qurantine",6,NA
+2021,"Mar","Heavy Survillance",3,NA
+2021,"Mar","Travel Ban",4,NA
+2021,"Mar","Heavy use of Masks/PPE",2,NA
+2021,"Apr","Lockdown",5,NA
+2021,"Apr","No Policy",7,NA
+2021,"Apr","No Tourism",6,NA
+2021,"Apr","Qurantine",1,NA
+2021,"Apr","Heavy Survillance",4,NA
+2021,"Apr","Travel Ban",3,NA
+2021,"Apr","Heavy use of Masks/PPE",2,NA
+2021,"May","Lockdown",3,NA
+2021,"May","No Policy",7,NA
+2021,"May","No Tourism",2,NA
+2021,"May","Qurantine",5,NA
+2021,"May","Heavy Survillance",4,NA
+2021,"May","Travel Ban",6,NA
+2021,"May","Heavy use of Masks/PPE",1,NA
+2021,"Jun","Lockdown",2,NA
+2021,"Jun","No Policy",7,NA
+2021,"Jun","No Tourism",5,NA
+2021,"Jun","Qurantine",3,NA
+2021,"Jun","Heavy Survillance",6,NA
+2021,"Jun","Travel Ban",4,NA
+2021,"Jun","Heavy use of Masks/PPE",1,NA
+2021,"Jul","Lockdown",1,NA
+2021,"Jul","No Policy",7,NA
+2021,"Jul","No Tourism",3,NA
+2021,"Jul","Qurantine",4,NA
+2021,"Jul","Heavy Survillance",2,NA
+2021,"Jul","Travel Ban",5,NA
+2021,"Jul","Heavy use of Masks/PPE",6,NA
+2021,"Aug","Lockdown",1,NA
+2021,"Aug","No Policy",7,NA
+2021,"Aug","No Tourism",3,NA
+2021,"Aug","Qurantine",4,NA
+2021,"Aug","Heavy Survillance",2,NA
+2021,"Aug","Travel Ban",6,NA
+2021,"Aug","Heavy use of Masks/PPE",5,NA
+2021,"Sep","Lockdown",7,NA
+2021,"Sep","No Policy",5,NA
+2021,"Sep","No Tourism",4,NA
+2021,"Sep","Qurantine",3,NA
+2021,"Sep","Heavy Survillance",1,NA
+2021,"Sep","Travel Ban",2,NA
+2021,"Sep","Heavy use of Masks/PPE",6,NA
+2021,"Oct","Lockdown",2,NA
+2021,"Oct","No Policy",4,NA
+2021,"Oct","No Tourism",5,NA
+2021,"Oct","Qurantine",6,NA
+2021,"Oct","Heavy Survillance",3,NA
+2021,"Oct","Travel Ban",1,NA
+2021,"Oct","Heavy use of Masks/PPE",7,NA
+2021,"Nov","Lockdown",1,NA
+2021,"Nov","No Policy",5,NA
+2021,"Nov","No Tourism",2,NA
+2021,"Nov","Qurantine",4,NA
+2021,"Nov","Heavy Survillance",3,NA
+2021,"Nov","Travel Ban",7,NA
+2021,"Nov","Heavy use of Masks/PPE",6,NA
+2021,"Dec","Lockdown",2,NA
+2021,"Dec","No Policy",5,NA
+2021,"Dec","No Tourism",6,NA
+2021,"Dec","Qurantine",7,NA
+2021,"Dec","Heavy Survillance",1,NA
+2021,"Dec","Travel Ban",3,NA
+2021,"Dec","Heavy use of Masks/PPE",4,NA

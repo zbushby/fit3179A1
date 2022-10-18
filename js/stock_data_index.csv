@@ -1,0 +1,37 @@
+"Month","Stock","Price","perc"
+"Jan","United States S&P500 Index",7133.04,1
+"Feb","United States S&P500 Index",6672,0.935365566
+"Mar","United States S&P500 Index",4816,0.675167951
+"Apr","United States S&P500 Index",4985.5,0.69893061
+"May","United States S&P500 Index",5631.5,0.789495082
+"Jun","United States S&P500 Index",6202.5,0.869545103
+"Jul","United States S&P500 Index",6201.6,0.869418929
+"Aug","United States S&P500 Index",6608.2,0.926421273
+"Sep","United States S&P500 Index",6293,0.88223254
+"Oct","United States S&P500 Index",6665.2,0.934412256
+"Nov","United States S&P500 Index",7031.7,0.985792874
+"Dec","United States S&P500 Index",7544,1.057613584
+"Jan","Sweden OMXS30 Index",1783.26,1
+"Feb","Sweden OMXS30 Index",1668,0.935365566
+"Mar","Sweden OMXS30 Index",1355,0.75984433
+"Apr","Sweden OMXS30 Index",1534,0.86022229
+"May","Sweden OMXS30 Index",1609,0.902280094
+"Jun","Sweden OMXS30 Index",1654,0.927514776
+"Jul","Sweden OMXS30 Index",1632,0.91517782
+"Aug","Sweden OMXS30 Index",1786,1.001536512
+"Sep","Sweden OMXS30 Index",1798,1.00826576
+"Oct","Sweden OMXS30 Index",1754,0.983591849
+"Nov","Sweden OMXS30 Index",1803,1.011069614
+"Dec","Sweden OMXS30 Index",1886,1.057613584
+"Jan","Hong Kong Hang Seng Index",28451,1
+"Feb","Hong Kong Hang Seng Index",26129,0.918385997
+"Mar","Hong Kong Hang Seng Index",26146,0.918983516
+"Apr","Hong Kong Hang Seng Index",24032,0.844680328
+"May","Hong Kong Hang Seng Index",24831,0.872763699
+"Jun","Hong Kong Hang Seng Index",24770,0.870619662
+"Jul","Hong Kong Hang Seng Index",24595,0.864468736
+"Aug","Hong Kong Hang Seng Index",25183,0.885135848
+"Sep","Hong Kong Hang Seng Index",24455,0.859547995
+"Oct","Hong Kong Hang Seng Index",24386,0.857122772
+"Nov","Hong Kong Hang Seng Index",25712,0.903729219
+"Dec","Hong Kong Hang Seng Index",26498,0.931355664

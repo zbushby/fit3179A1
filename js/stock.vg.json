@@ -1,0 +1,44 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  "description": "Highlight multiple lines",
+  "width": 800,
+  "height": 425,
+  "data": {"url": "js/stock_data_index.csv"},
+  "config": {"point": {"opacity": 0.0}},        
+  "layer": [
+    {
+      "selection": {
+        "highlight": {"type": "single", 
+          "on": "mouseover", 
+          "nearest": "true", "fields": ["Stock"]}
+      },
+      "mark": "point",
+      "encoding": {
+        "x": {"field": "Month", "type": "ordinal" ,
+        "sort": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "axis": { "labelAngle": 0 , "labelFontSize": 12 , "titleFontSize": 14},
+        "title": "Months ~ 2020"
+        },
+        "y": {"field": "perc", "type": "quantitative",
+        "title": "Percentage of Beginning Price"},
+        "color": {"field": "Stock", "type": "nominal"}
+      }
+    },
+    {
+      "mark": "line",
+      "encoding": {
+        "x": {"field": "Month", "type": "nominal",
+        "sort": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
+      },
+
+        "y": {"field": "perc", "type": "quantitative"},
+        "color": {"field": "Stock", "type": "nominal"},
+        "size": {"condition": {
+          "selection": {"not": "highlight"}, "value": 1
+          }, 
+          "value": 3
+        }  
+      }
+    }
+  ]
+}
